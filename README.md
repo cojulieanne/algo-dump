@@ -1,2 +1,2 @@
-# LeetCode-dump
-Repo of my leetcode drafts/submissions
+# Algo dump
+Repo of some computational problems from UVA, ProjectEuler, Leetcode, etc
